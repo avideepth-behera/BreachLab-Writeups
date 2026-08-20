@@ -8,7 +8,7 @@ Nimbus AI. A verification code wrapped in layers of encoding. Representation is 
 
 ## Reconnaissance
 
-To authentication, username is `l2` and password is flag obtained in the previous challenge `l1`.
+To authenticate to this level, username is `l2` and password is flag obtained in the previous challenge `l1`.
 
 On the front page we can see a one-time verification code which is encoded. It appears to be Base64 encoding, but we we know it will be encoded mutliple times as given the challenge objective.
 
