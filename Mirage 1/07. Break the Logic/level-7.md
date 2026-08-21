@@ -10,7 +10,7 @@ Brewline. The checkout math trusts you. Stack coupons and negatives until the lo
 
 ## Reconnaissance & Exploitation
 
-The application provided a standard purchasing workflow in which we could add beverages to the cart and apply a promotional discount coupons to get a discout on our order.
+The application provides a coffee purchasing platform in which we could add beverages to the cart and apply a promotional discount coupons to get a discount on our order.
 
 ![alt text](image1.png)
 
