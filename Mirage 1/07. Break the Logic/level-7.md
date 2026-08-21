@@ -1,9 +1,5 @@
 # Level 7: Break the Logic
 
-## Overview
-
-This challenge focused on a **business logic vulnerability** rather than a traditional technical flaw. The application allowed the same discount coupon to be applied repeatedly without validating whether it had already been redeemed or whether a maximum discount threshold had been reached. By abusing this logic, it was possible to reduce the order total to 100% and ultimately obtain the challenge flag.
-
 ---
 
 ## Objective
