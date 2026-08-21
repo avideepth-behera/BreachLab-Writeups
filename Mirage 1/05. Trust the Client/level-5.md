@@ -60,7 +60,7 @@ As a result, the application treated the session as an administrator and granted
 
 ## Root Cause
 
-This appears to be an **IDOR(Insecure Direct Object Reference)** vulnerability. A **A01:Broken Access Control** vulnerability that allows an user view data, use features, or change information they shouldn't have authorization to.
+This was the **A01:Broken Access Control** vulnerability, it happens when a web app fails to enforce user permissions properly. That allows an user view data, use features, or change information they are not allowed to see or have access to.
 
 The application trusted authorisation information supplied by the client. Rather than determining user privileges on the server, it relied directly on the value stored inside the session cookie.
 
