@@ -10,7 +10,7 @@ Parcelo. Object references with no ownership check — read the shipments that a
 
 ## Reconnaissance
 
-The frontpage doesn't look anything interesting except for these orders.
+The frontpage doesn't look anything interesting except for these shipment details.
 
 ![alt text](image1.png)
 
