@@ -12,7 +12,7 @@ Parcelo. Object references with no ownership check — read the shipments that a
 
 The frontpage doesn't look anything interesting except for these orders.
 
-![alt text](image.png)
+![alt text](image1.png)
 
 As the objective suggest, the application might be vulnerable to IDOR (Insecure Direct Object Reference) also know as BOLA(Broken Object Level Authorization).
 
