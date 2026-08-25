@@ -1,5 +1,7 @@
 # Level 6: Other People's Objects
 
+Link: [Level 6](https://breachlab.org/tracks/mirage/6)
+
 ---
 
 ## Objective
