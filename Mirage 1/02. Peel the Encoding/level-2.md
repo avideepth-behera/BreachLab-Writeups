@@ -1,5 +1,9 @@
 # Level 2: Peel the Encoding
 
+Link: [Level 2](https://breachlab.org/tracks/mirage/1)
+
+---
+
 ## Objective
 
 Nimbus AI. A verification code wrapped in layers of encoding. Representation is not protection.
