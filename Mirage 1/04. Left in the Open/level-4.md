@@ -1,5 +1,7 @@
 # Level 4: Left in the Open
 
+Link: [Level 4](https://breachlab.org/tracks/mirage/4)
+
 ---
 
 ## Objective
