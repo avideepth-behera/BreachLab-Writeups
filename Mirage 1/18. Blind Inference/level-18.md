@@ -1,6 +1,11 @@
-# Level 17: Blind Inference
+# Level 18: Blind Inference
+
+Link: [Level 18](https://breachlab.org/tracks/mirage/18)
+
+---
 
 ## Objective
+
 Trackbird. No output, only behaviour — infer the database one boolean at a time (blind SQLi).
 
 ---
