@@ -1,6 +1,6 @@
 # Level 2: Peel the Encoding
 
-Link: [Level 2](https://breachlab.org/tracks/mirage/1)
+Link: [Level 2](https://breachlab.org/tracks/mirage/2)
 
 ---
 
