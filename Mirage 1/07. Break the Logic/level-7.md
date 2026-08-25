@@ -1,5 +1,7 @@
 # Level 7: Break the Logic
 
+Link: [Level 7](https://breachlab.org/tracks/mirage/7)
+
 ---
 
 ## Objective
