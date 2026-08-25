@@ -1,5 +1,7 @@
 # Level 8: Keys in the Bundle
 
+Link: [Level 8](https://breachlab.org/tracks/mirage/8)
+
 ---
 
 ## Objective
