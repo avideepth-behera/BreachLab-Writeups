@@ -1,10 +1,12 @@
 # Level 1: The Wire
 
+Link: [Level 1](https://breachlab.org/tracks/mirage/0)
+
+---
+
 ## Objective
 
 Nimbus AI. Forget the form — craft the HTTP request the UI never sends and speak to the service directly.
-
-Goal: Craft a custom HTTP request to bypass the application security and access the admin page.
 
 ---
 
