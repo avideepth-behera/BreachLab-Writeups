@@ -25,7 +25,7 @@ Wanna see my progress? -> [Check me out](https://breachlab.org/u/avideepth)
 
 | #   | Challenges          | Writeups                                              |
 | :-- | :------------------ | :---------------------------------------------------- |
-| 01  | The Wire            | [Read](./01.%20The%20Wire/level-1.md)                 |
+| 01  | The Wire            | [Read](./01.%20The%20Wire/level-1.md)                  |
 | 02  | Peel the Encoding   | [Read](./02.%20Peel%20the%20Encoding/level-2.md)      |
 | 03  | Source Maps Talk    | [Read](./03.%20Source%20Maps%20Talk/level-3.md)       |
 | 04  | Left in the Open    | [Read](./04.%20Left%20in%20the%20Open/level-4.md)     |
