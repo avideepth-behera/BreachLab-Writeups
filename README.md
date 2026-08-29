@@ -43,5 +43,5 @@ Wanna see my progress? -> [Check me out](https://breachlab.org/u/avideepth)
 | 16  | Walk the Path       | [Read](./Mirage%201/16.%20Walk%20the%20Path/level-16.md)         |
 | 17  | Union of Lies       | [Read](./Mirage%201/17.%20Union%20of%20Lies/level-17.md)         |
 | 18  | Blind Inference     | [Read](./Mirage%201/18.%20Blind%20Inference/level-18.md)         |
-| 19  |                     |                                                                  |
+| 19  | Operators Welcome   | [Read](./Mirage%201/19.%20Operators%20Welcome/level-19.md)       |
 | 20  |                     |                                                                  |
