@@ -86,11 +86,11 @@ Happy finding 😁!
 
 ![alt text](image11.png)
 
-Got the token, not let's send the request to access the internal location.
+Got the token, now let's send the request to access the internal location.
 
 ![alt text](image12.png)
 
-I capture a sample request in **Burpsuite**, forwwarded it to the **Burp Repeater**, changed the request header to `GET /unlock?token=<TOKEN> HTTP/2` and sent the request.
+I capture a sample request in **Burpsuite**, forwarded it to the **Burp Repeater**, changed the request header to `GET /unlock?token=<TOKEN> HTTP/2` and sent the request.
 
 ![alt text](image13.png)
 
