@@ -45,3 +45,4 @@ Wanna see my progress? -> [Check me out](https://breachlab.org/u/avideepth)
 | 18  | Blind Inference     | [Read](./Mirage%201/18.%20Blind%20Inference/level-18.md)         |
 | 19  | Operators Welcome   | [Read](./Mirage%201/19.%20Operators%20Welcome/level-19.md)       |
 | 20  | Shell on Demand     | [Read](./Mirage%201/20.%20Shell%20on%20Demand/level-20.md)       |
+| 21  | Template Injection  | [Read](./Mirage%201/21.%20Template%20Injection/level-21.md)
